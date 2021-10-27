@@ -9,6 +9,7 @@ Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,cl
 ```
 $ git clone https://github.com/RafaelaPapale/seminario-c214
 ```
+
 ### 📋 Pré-requisitos para execução
 - IDE para execução de códigos Javascript (ex: Visual Studio Code)
 - npm 
@@ -16,6 +17,7 @@ Após clonar o repositório, entre na pasta do projeto através da IDE e execute
 ```
 npm install
 ```
+
 ### ⚙️ Executando os testes
 A implementação dos testes de unidade  foi feita utilizando o framework de teste chamado Jest.
 
@@ -29,3 +31,26 @@ A implementação dos testes de unidade  foi feita utilizando o framework de tes
 ```
 npm test
 ```
+
+### 🛠️ Construído com
+
+**IDE**: [Visual Studio Code](https://code.visualstudio.com/)
+
+**Linguagens**: [JavaScript](https://www.javascript.com/)
+
+**Gerenciamento de dependências**: [npm](https://www.npmjs.com/)
+
+**Controle de versões**: [GitHub](https://github.com/)
+
+**Framework de teste**: [JestJs](https://jestjs.io/pt-BR/)
+
+### 📌 Versão
+O GitHub foi usado para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/RafaelaPapale/seminario-c214).
+
+## ✒️ Autores
+
+* **Rafaela de Moraes Papale** - [Rafaela](https://github.com/RafaelaPapale)
+* **Douglas Tavares Martins** - [Douglas](https://github.com/tavares-douglas)
+
+### 📄 Licença
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://badges.mit-license.org/)
