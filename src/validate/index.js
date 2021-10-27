@@ -1,5 +1,5 @@
-const soma = require('./soma');
+const numbers = require('./numbers');
 
 module.exports = {
-  soma,
+  numbers,
 };
