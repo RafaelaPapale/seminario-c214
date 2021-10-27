@@ -4,6 +4,9 @@
 
 <p>Este repositório contém o projetinho realizado para a apresentação do seminário de C214. O projeto desenvolvido trata-se de uma calculadora capaz de somar, subtrair, multiplicar e dividir dois números.</p>
 
+### 📦 Sobre o Jest
+Jest é um framework de teste unitário de código aberto em JavaScript criado pelo Facebook a partir do framework Jasmine. Jest é uma das ferramentas de teste unitário mais difundidas dentro da comunidade de JavaScript. O Jest foi inicialmente criado para testar o framework React, também criado pelo Facebook. Porém sua implementação se tornou muito mais ampla, sendo utilizado como ferramenta de teste unitário para diversas plataformas JavaScript como Node e Redux, e até mesmo plataformas em TypeScript como Angular e Ionic.
+
 ### 🚀 Começando
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,clone o repositório em uma pasta na sua máquina:
 ```
@@ -47,7 +50,7 @@ npm test
 ### 📌 Versão
 O GitHub foi usado para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/RafaelaPapale/seminario-c214).
 
-## ✒️ Autores
+### ✒️ Autores
 
 * **Rafaela de Moraes Papale** - [Rafaela](https://github.com/RafaelaPapale)
 * **Douglas Tavares Martins** - [Douglas](https://github.com/tavares-douglas)
