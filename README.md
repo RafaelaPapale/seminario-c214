@@ -8,13 +8,14 @@
 Jest é um framework de teste unitário de código aberto em JavaScript criado pelo Facebook a partir do framework Jasmine. Jest é uma das ferramentas de teste unitário mais difundidas dentro da comunidade de JavaScript. O Jest foi inicialmente criado para testar o framework React, também criado pelo Facebook. Porém sua implementação se tornou muito mais ampla, sendo utilizado como ferramenta de teste unitário para diversas plataformas JavaScript como Node e Redux, e até mesmo plataformas em TypeScript como Angular e Ionic.
 
 ### 🚀 Começando
-Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,clone o repositório em uma pasta na sua máquina:
+Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, clone o repositório em uma pasta na sua máquina:
 ```
 $ git clone https://github.com/RafaelaPapale/seminario-c214
 ```
 ### 📋 Pré-requisitos para execução
 - IDE para execução de códigos Javascript (ex: Visual Studio Code)
-- npm 
+- npm
+
 Após clonar o repositório, entre na pasta do projeto através da IDE e execute o seguinte comando pelo terminal para instalar todas as dependências necessárias para a execução do projeto:
 ```
 npm install
