@@ -6,7 +6,7 @@ test('Teste Subtracao Válida', async () => {
     expect(result).toEqual(25);
 });
 
-test('Teste Soma Inválida - Strings', async () => {
+test('Teste Soma Inválida - Faltando parâmetros obrigatórios', async () => {
     const result = await CalculadoraService.subtracao(SubTestObjects.SubInvalid_EmptyParams);
     expect(result).toEqual("Erro de Validação");
 });

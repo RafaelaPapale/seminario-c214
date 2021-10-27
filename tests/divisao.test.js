@@ -6,7 +6,7 @@ test('Teste Divisão Válida', async () => {
     expect(result).toEqual(6);
 })
 
-test('Teste Divisão Inválida - Strings', async () => {
+test('Teste Divisão Inválida - Nome Errado de Variável', async () => {
     const result = await CalculadoraService.divisao(DivTestObjects.DivInvalid_WrongName);
     expect(result).toEqual("Erro de Validação");
 })
